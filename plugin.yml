@@ -1,0 +1,10 @@
+name: Splat
+main: org.mafacraft.splat.SplatPlugin
+version: 0.1
+
+commands:
+   splat:
+      description: This is a splat command.
+      usage: /splat action object
+      permission: Splat.splat
+      permission-message: You don't have permission splat.

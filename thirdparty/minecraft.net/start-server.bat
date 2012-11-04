@@ -1,0 +1,1 @@
+java -Xmx1024M -Xms1024M -jar craftbukkit-1.4.2-R0.3-20121103.060223-2.jar nogui

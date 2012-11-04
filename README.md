@@ -1,0 +1,1 @@
+# SplatPlugin for Minecraft

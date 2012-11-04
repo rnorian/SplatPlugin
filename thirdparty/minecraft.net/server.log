@@ -1,0 +1,67 @@
+2012-11-03 17:47:17 [INFO] Starting minecraft server version 1.4.2
+2012-11-03 17:47:17 [INFO] Loading properties
+2012-11-03 17:47:17 [WARNING] server.properties does not exist
+2012-11-03 17:47:17 [INFO] Generating new properties file
+2012-11-03 17:47:17 [INFO] Default game type: SURVIVAL
+2012-11-03 17:47:17 [INFO] Generating keypair
+2012-11-03 17:47:19 [INFO] Starting Minecraft server on *:25565
+2012-11-03 17:47:19 [WARNING] Failed to load operators list: java.io.FileNotFoundException: .\ops.txt (The system cannot find the file specified)
+2012-11-03 17:47:19 [WARNING] Failed to load white-list: java.io.FileNotFoundException: .\white-list.txt (The system cannot find the file specified)
+2012-11-03 17:47:19 [INFO] Preparing level "world"
+2012-11-03 17:47:20 [INFO] Preparing start region for level 0
+2012-11-03 17:47:21 [INFO] Preparing spawn area: 8%
+2012-11-03 17:47:22 [INFO] Preparing spawn area: 20%
+2012-11-03 17:47:23 [INFO] Preparing spawn area: 32%
+2012-11-03 17:47:24 [INFO] Preparing spawn area: 49%
+2012-11-03 17:47:25 [INFO] Preparing spawn area: 63%
+2012-11-03 17:47:26 [INFO] Preparing spawn area: 76%
+2012-11-03 17:47:27 [INFO] Preparing spawn area: 93%
+2012-11-03 17:47:28 [INFO] Preparing spawn area: 98%
+2012-11-03 17:47:28 [INFO] Done (9.004s)! For help, type "help" or "?"
+2012-11-03 17:49:20 [INFO] Unknown command. Try /help for a list of commands.
+2012-11-03 17:49:23 [INFO] Stopping the server
+2012-11-03 17:49:23 [INFO] Stopping server
+2012-11-03 17:49:23 [INFO] Saving players
+2012-11-03 17:49:23 [INFO] Saving worlds
+2012-11-03 17:49:23 [INFO] Saving chunks for level 'world'/Overworld
+2012-11-03 17:49:23 [INFO] Saving chunks for level 'world'/Nether
+2012-11-03 17:49:23 [INFO] Saving chunks for level 'world'/The End
+2012-11-03 17:49:23 [INFO] Stopping server
+2012-11-03 17:49:42 [INFO] Starting minecraft server version 1.4.2
+2012-11-03 17:49:42 [INFO] Loading properties
+2012-11-03 17:49:42 [INFO] Default game type: SURVIVAL
+2012-11-03 17:49:42 [INFO] Generating keypair
+2012-11-03 17:49:42 [INFO] Starting Minecraft server on *:25565
+2012-11-03 17:49:44 [INFO] This server is running CraftBukkit version git-Bukkit-1.4.2-R0.2-1-g3d8a353-b2457jnks (MC: 1.4.2) (Implementing API version 1.4.2-R0.3-SNAPSHOT)
+2012-11-03 17:49:45 [INFO] Preparing level "world"
+2012-11-03 17:49:45 [INFO] ---- Migration of old nether folder required ----
+2012-11-03 17:49:45 [INFO] Unfortunately due to the way that Minecraft implemented multiworld support in 1.6, Bukkit requires that you move your nether folder to a new location in order to operate correctly.
+2012-11-03 17:49:45 [INFO] We will move this folder for you, but it will mean that you need to move it back should you wish to stop using Bukkit in the future.
+2012-11-03 17:49:45 [INFO] Attempting to move world\DIM-1 to world_nether\DIM-1...
+2012-11-03 17:49:45 [INFO] Success! To restore nether in the future, simply move world_nether\DIM-1 to world\DIM-1
+2012-11-03 17:49:45 [INFO] ---- Migration of old nether folder complete ----
+2012-11-03 17:49:45 [INFO] ---- Migration of old the_end folder required ----
+2012-11-03 17:49:45 [INFO] Unfortunately due to the way that Minecraft implemented multiworld support in 1.6, Bukkit requires that you move your the_end folder to a new location in order to operate correctly.
+2012-11-03 17:49:45 [INFO] We will move this folder for you, but it will mean that you need to move it back should you wish to stop using Bukkit in the future.
+2012-11-03 17:49:45 [INFO] Attempting to move world\DIM1 to world_the_end\DIM1...
+2012-11-03 17:49:45 [INFO] Success! To restore the_end in the future, simply move world_the_end\DIM1 to world\DIM1
+2012-11-03 17:49:45 [INFO] ---- Migration of old the_end folder complete ----
+2012-11-03 17:49:45 [INFO] Preparing start region for level 0 (Seed: -7637742094031808118)
+2012-11-03 17:49:45 [INFO] ----- Bukkit Auto Updater -----
+2012-11-03 17:49:45 [INFO] It appears that you're running a Development Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2012-11-03 17:49:46 [INFO] If you would like to be kept informed about new Development Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'dev'.
+2012-11-03 17:49:46 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2012-11-03 17:49:46 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2012-11-03 17:49:46 [INFO] ----- ------------------- -----
+2012-11-03 17:49:46 [INFO] Preparing spawn area: 32%
+2012-11-03 17:49:47 [INFO] Preparing start region for level 1 (Seed: -7637742094031808118)
+2012-11-03 17:49:47 [INFO] Preparing spawn area: 0%
+2012-11-03 17:49:48 [INFO] Preparing spawn area: 16%
+2012-11-03 17:49:49 [INFO] Preparing spawn area: 32%
+2012-11-03 17:49:50 [INFO] Preparing spawn area: 48%
+2012-11-03 17:49:51 [INFO] Preparing spawn area: 69%
+2012-11-03 17:49:52 [INFO] Preparing spawn area: 89%
+2012-11-03 17:49:52 [INFO] Preparing start region for level 2 (Seed: -7637742094031808118)
+2012-11-03 17:49:53 [INFO] Preparing spawn area: 20%
+2012-11-03 17:49:54 [INFO] Preparing spawn area: 61%
+2012-11-03 17:49:55 [INFO] Done (10.201s)! For help, type "help" or "?"
